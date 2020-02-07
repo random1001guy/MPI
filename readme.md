@@ -39,6 +39,6 @@ I'm presently learning about this stuff, and will keep adding new things that I 
     man mpicc
   ```
   ```
-  man mpiexec
+    man mpiexec
   ```  
   
