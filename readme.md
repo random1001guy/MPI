@@ -35,5 +35,10 @@ I'm presently learning about this stuff, and will keep adding new things that I 
   executable.
   
   For more details, please see the man pages of the commands :
-  ```man mpicc```
-  ```man mpiexec```  OR ```man mpirun```
+  ```
+    man mpicc
+  ```
+  ```
+  man mpiexec
+  ```  
+  
