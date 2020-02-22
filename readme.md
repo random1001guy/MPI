@@ -5,7 +5,7 @@ I'm presently learning about this stuff, and will keep adding new things that I 
 ## Installing MPI on Ubuntu
   Use the following command on the terminal to install the MPI compiler on Ubuntu:
   ```
-    sudo apt install lam4-dev 
+    sudo apt install lam4-dev __OR__
     sudo apt install libmpich-dev 
   ```
 
