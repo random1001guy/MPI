@@ -24,12 +24,12 @@ I'm presently learning about this stuff, and will keep adding new things that I 
   To run your MPI programs you can either of the follwing commands:
   
 ``` 
-    mpirun -np 2 myfoo  
+    mpirun -np 2 ./myfoo  
 ```
    __OR__
  
 ```
-    mpiexec -np 2 myfoo  
+    mpiexec -np 2 ./myfoo  
 ```
   
   Here -np specifies how many processses to create. In the above case, 2 processes are created and both run the myfoo   
